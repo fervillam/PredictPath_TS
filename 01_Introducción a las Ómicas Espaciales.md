@@ -1,4 +1,4 @@
-# Guía Básica de Ciencias Ómicas Espaciales
+# Introducción a las Ciencias Ómicas Espaciales
 
 ## 1. Introducción al Contexto Espacial
 
