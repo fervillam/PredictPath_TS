@@ -12,6 +12,8 @@ Estas señales responden a un contexto espacial: la identidad y función de una 
 
 En cuanto a información biológica, esto significa que no estaremos trabajando con todos los genes, sino únicamente con aquellos que se expresaron: los transcritos de ARN mensajero y en algunos casos, proteínas. El estudio de estas moléculas junto a sus coordenadas geográficas conforma lo que conocemos como **transcriptómica espacial** y **proteómica espacial**.
 
+<img width="6912" height="2304" alt="Flujo de información y Ómicas" src="https://github.com/user-attachments/assets/8b7a3008-cda9-4b05-ab90-efc634a4817b" />
+
 ---
 
 ## 2. La Abstracción de Datos: Del Tejido a las Estructuras Informáticas
