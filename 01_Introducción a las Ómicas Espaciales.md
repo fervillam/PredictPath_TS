@@ -10,7 +10,7 @@ La respuesta no está en qué genes existen en el ADN, sino en cuáles se activa
 
 Estas señales responden a un contexto espacial: la identidad y función de una célula están determinadas por quiénes son sus vecinas, a qué distancia se encuentran y qué moléculas están intercambiando en un punto específico del espacio $2\text{D}$ o $3\text{D}$.
 
-En cuanto a información biológica, esto significa que no estaremos trabajando con todos los genes, sino únicamente con aquellos que se expresaron: los transcritos de ARN mensajero y en algunos casos, proteínas. El estudio de estas moléculas junto a sus coordenadas geográficas conforma lo que conocemos como **transcriptómica espacial** y **proteómica espacial**.
+En cuanto a información biológica, esto significa que no estaremos trabajando con todos los genes, sino únicamente con aquellos que se expresaron: los transcritos de ARN mensajero y en algunos casos, proteínas. El estudio de estas moléculas junto a sus coordenadas geográficas conforma lo que conocemos como genómica espacial, **transcriptómica espacial** y proteómica espacial.
 
 <img width="6912" height="2304" alt="Flujo de información y Ómicas" src="https://github.com/user-attachments/assets/8b7a3008-cda9-4b05-ab90-efc634a4817b" />
 
