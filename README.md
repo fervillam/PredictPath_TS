@@ -8,5 +8,7 @@ En este repositorio se encuentran algunas guías de aprendizaje conceptual y met
 
 ## Índice:
 **1. Introducción a las Ómicas Espaciales:** una introducción a la lectura biológica de los diferentes estados celulares en un contexto espacial y a la abstracción computacional de sus datos por medio del objeto `AnnData` en Python.
+
 **2. Preprocesamiento:** TBA
+
 3. TBA
