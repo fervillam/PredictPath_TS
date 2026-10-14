@@ -1,4 +1,4 @@
-<img width="230" height="78" alt="preview (2)" src="https://github.com/user-attachments/assets/cddec90b-b479-4952-94d8-07325ad8b9d5" />
+<img width="555" height="78" alt="Traespa" src="https://github.com/user-attachments/assets/ad7381af-8c30-4672-bad8-2968c31919ef" />
 
 # Guías de Transcriptómica espacial para el Semillero PredictPath
 
