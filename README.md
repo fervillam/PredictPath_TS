@@ -11,4 +11,4 @@ En este repositorio se encuentran algunas guías de aprendizaje conceptual y met
 
 **2. Preprocesamiento:** TBA
 
-3. TBA
+**3. TBA**
